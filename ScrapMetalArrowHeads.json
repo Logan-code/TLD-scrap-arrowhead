@@ -1,0 +1,13 @@
+{
+    "RequiredGear": ["GEAR_ScrapMetal"],
+    "RequiredGearUnits": [1],
+    "KeroseneLitersRequired": 0,
+    "RequiredTool": "GEAR_Hacksaw",
+    "RequiresForge": false,
+    "RequiresWorkbench": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ArrowHead",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_HarvestingMetal"
+}
