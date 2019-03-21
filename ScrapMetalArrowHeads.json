@@ -9,6 +9,6 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_ArrowHead",
     "CraftedResultCount": 1,
-    "DurationMinutes": 15,
-    "CraftingAudio": "Play_HarvestingMetal"
+    "DurationMinutes": 10,
+    "CraftingAudio": "Play_HarvestingMetalSaw"
 }
