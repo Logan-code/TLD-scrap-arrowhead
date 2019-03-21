@@ -1,0 +1,25 @@
+{
+    "name": "Scrap Arrow Head",
+    "description": "Allows making arrow heads from scrap without a forge.",
+    "url": "https://github.com/Logan-code/TLD_scrap_arrowhead",
+    "author": "Logan-code",
+    "releases": [
+        {
+            "version": "1.0",
+            "releaseDate": "2019-03-21",
+            "changes": "",
+            "dependencies": [
+                {
+                    "name": "ModComponent",
+                    "version": "^3.2.1"
+                }
+            ],
+            "assets": [
+                {
+                    "url": "https://raw.githubusercontent.com/Logan-code/TLD_scrap_arrowhead/master/ScrapMetalArrowHeads.json",
+                    "targetDirectory": "Blueprints"
+                }
+            ]
+        }
+    ]
+}
