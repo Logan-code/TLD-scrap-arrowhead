@@ -1,14 +1,18 @@
 {
+    "Name": "Scrap_Arrowhead",
     "RequiredGear": ["GEAR_ScrapMetal"],
     "RequiredGearUnits": [1],
     "KeroseneLitersRequired": 0,
-    "RequiredTool": "GEAR_SimpleTools",
-    "OptionalTools": ["GEAR_HighQualityTools"],    
-    "RequiresForge": false,
-    "RequiresWorkbench": false,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_ArrowHead",
     "CraftedResultCount": 1,
-    "DurationMinutes": 10,
-    "CraftingAudio": "Play_HarvestingMetalSaw"
+    "DurationMinutes": 90,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
 }
